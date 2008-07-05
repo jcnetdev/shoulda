@@ -1,3 +1,1 @@
-require 'rubygems'
-require 'active_support'
-require 'shoulda'
+require File.dirname(__FILE__) + "/rails/init"
